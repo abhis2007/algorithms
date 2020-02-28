@@ -3,7 +3,7 @@ Algorithms for building competitive programming questions solving ability materi
 mainly focussing on Mathematical algorithms Like:-
 --> sieve for Generating Prime Number
 --> Sieve for minimum prime factor
---> Zeller Congrence
+  Zeller Congrence
 
 0:Saturday
 1:Sunday
