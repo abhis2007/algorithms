@@ -27,37 +27,6 @@ def EulerTotient(n):
 while(1):
     print(EulerTotient(int(input("Enter Value Of N"))))
     
-    
-                
-        
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 """def phi(n) :
     result = n
